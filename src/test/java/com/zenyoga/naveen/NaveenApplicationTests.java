@@ -1,10 +1,10 @@
-package com.zenyoga.madhumitha;
+package com.zenyoga.naveen;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class MadhumithaApplicationTests {
+class NaveenApplicationTests {
 
 	@Test
 	void contextLoads() {
